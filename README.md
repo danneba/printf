@@ -476,8 +476,8 @@ Output:
 
 ## Authors :black_nib:
 
-* Anteneh Kassaw Bizuneh <[Anteneh2121](https://github.com/Anteneh2121)>
-* Tesfay Daniel <[Tesfay](https://github.com/TesfayDaniel)>
+* Daniel Kassahun Wassie <[danneba](https://github.com/danneba)>
+* Hailemariam Moges <[Hailemariam-Moges](https://github.com/Hailemariam-Moges)>
 
 ## License :lock:
 
